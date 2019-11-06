@@ -1,0 +1,111 @@
+nav{
+	font-size: 25px;
+	font-weight: bold;
+	position: fixed;
+	left: -25px;
+	top: 50%;
+}
+ul{
+	list-style: none;
+}
+li{
+	background-color: grey;
+}
+.extremos{
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-width: 5px;
+	border-bottom-width: 5px;
+	border-top-color: yellow;
+	border-bottom-color: yellow;
+}
+body{
+	background-image: url(imagenes/fondo.jpg);
+	background-repeat: no-repeat;
+	font-family: Agency FB;
+	text-transform: uppercase;
+	background-attachment: fixed;
+}
+.logo{
+	text-align: center;
+	color: #91E1FA;
+	font-size: 25px;
+}
+.albums{
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	font-style: italic;
+}
+table{
+	position: relative;
+	left: 250px;
+	padding-left: 10px;
+}
+td{
+	padding-bottom: 2px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.bordes{
+	width: 375px;
+	border-style: solid;
+	border-color: black;
+	border-width: 10px;
+}
+.tienda{
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-image: linear-gradient(red,#921919);
+}
+a:link{
+	color: white;
+	text-decoration: none;
+}
+a:visited{
+	color: white;
+	text-decoration: none;
+}
+.videoclip{
+	color: white;
+	font-style: italic;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	margin: 7px;
+}
+.tours{
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	margin-left: 300px;
+	margin-right: 300px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-image: linear-gradient(#292424,black);
+}
+footer{
+	background-color: #5F5F5F;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	padding-left: 300px;
+	padding-right: 300px;
+	margin-top: 20px;
+}
+.enlaces{
+	width: 75px;
+}

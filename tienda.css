@@ -1,0 +1,40 @@
+body{
+	background-color: black;
+	font-family: Agency FB;
+	text-transform: uppercase;
+	color: white;
+}
+h1{
+	font-weight: bold;
+	text-align: center;
+	font-size: 50px;
+}
+table{
+	text-align: center;
+	margin-left: 75px;
+}
+img{
+	width: 300px;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+a:link{
+	color: white;
+	text-decoration: none;
+}
+a:visited{
+	color: white;
+	text-decoration: none;
+}
+footer{
+	background-color: #5F5F5F;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	padding-left: 200px;
+	padding-right: 200px;
+	margin-top: 20px;
+}
+.enlaces{
+	width: 75px;
+}
